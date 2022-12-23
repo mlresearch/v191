@@ -1,0 +1,93 @@
+---
+booktitle: ECMLPKDD Workshop on Meta-Knowledge Transfer
+shortname: metalearning
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Talks
+  title: Contributed Talks
+- name: Original Papers
+  title: Original Papers
+- name: Extended Abstracts
+  title: Extended Abstracts
+volume: '191'
+year: '2022'
+start: 2022-09-23
+end: 2022-09-23
+published: 2022-12-23
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MetaDL
+month: 0
+cycles: false
+bibtex_editor: Brazdil, Pavel and van Rijn, Jan N. and Gouk, Henry and Mohr, Felix
+editor:
+- given: Pavel
+  family: Brazdil
+- given: Jan N.
+  family: Rijn
+  prefix: van
+- given: Henry
+  family: Gouk
+- given: Felix
+  family: Mohr
+title: Proceedings of Machine Learning Research
+description: |
+  ECMLPKDD Workshop on Meta-Knowledge Transfer
+    Held in Grenoble, France on 23 September 2022
+
+  Published as Volume 191 by the Proceedings of Machine Learning Research on 23 December 2022.
+
+  Volume Edited by:
+    Pavel Brazdil
+    Jan N. van Rijn
+    Henry Gouk
+    Felix Mohr
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 23 Sep
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v191"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v191
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v191
+email: ''
+conference:
+  name: ECMLPKDD Workshop on Meta-Knowledge Transfer
+  url: https://janvanrijn.github.io/metalearning/2022ECMLPKDDworkshop
+  location: Grenoble, France
+  dates:
+  - 2022-09-23
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v191/metalearning.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v191/metalearning.bib
